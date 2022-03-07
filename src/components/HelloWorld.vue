@@ -16,7 +16,10 @@
       </v-col>
 
       <v-col class="mb-5" cols="12">
-        <h2 class="headline font-weight-bold mb-5">Get in touch</h2>
+        <h2 class="headline font-weight-bold mb-5">
+          <v-icon large color="blue darken-2"> mdi-email </v-icon>
+          <a href="mailto:sales@awmconsulting.dev">Get in touch </a>
+        </h2>
 
         <v-row justify="center"> </v-row>
       </v-col>
