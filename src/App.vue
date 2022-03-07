@@ -3,10 +3,10 @@
     <v-main>
       <!-- <v-container> -->
       <v-row>
-        <v-col cols="6">
+        <v-col cols="12" lg="6" md="12" sm="12" xs="12">
           <HelloWorld />
         </v-col>
-        <v-col cols="6">
+        <v-col cols="12" lg="6" md="12" sm="12" xs="12">
           <v-img
             src="/images/workstation-awm.jpg"
             alt="AWM Workstation"
